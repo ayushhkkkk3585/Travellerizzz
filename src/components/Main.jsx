@@ -8,7 +8,7 @@ const Main = () => {
             <div className='bg-black my-0 h-1 flex justify-center items-center w-4/5 mx-auto'></div>
             <div className='flex flex-col justify-center items-center'>
                 <p className='font-bold text-3xl my-5'>The Beginning After the End...</p>
-                <img className='w-2/4 drop-shadow-md' src="/src/assets/Travelling collage with famous sights.png" alt="" />
+                <img className='w-2/4 drop-shadow-md' src="/Travelling collage with famous sights.png" alt="" />
                 <p className='font-bold text-3xl'>Kickstart your Journey and travel around the world in 50 Days...</p>
                 <button className='font-semibold text-xl bg-amber-500 p-2 rounded-md text-center my-7' ><Link to="/form"> Click here to books tickets</Link></button>
                 <div className='bg-black my-5 h-1 w-full'></div>
