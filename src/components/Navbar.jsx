@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className='flex justify-between '>
         <Link to="/">
         <div className='flex'>
-          <img className='w-9 h-9  m-7' src="/src/assets/logo.png" alt="img" />
+          <img className='w-9 h-9  m-7' src="/logo.png" alt="img" />
           <p className='my-8 font-bold text-2xl '>TravelleRizz</p>
         </div>
         </Link>

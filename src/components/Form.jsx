@@ -151,7 +151,7 @@ const Form = () => {
                             {errors.from && <span className="text-red-500">{errors.from}</span>}
                         </div>
                         <div>
-                            <img src="/src/assets/plane.png" className='w-24 mr-5' alt="" />
+                            <img src="/plane.png" className='w-24 mr-5' alt="" />
                         </div>
                         <div className="flex flex-col mr-4">
                             <label className='font-bold text-lg '>To</label>

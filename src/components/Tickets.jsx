@@ -78,7 +78,7 @@ const Tickets = () => {
           <div ref={pdfref} className='flex drop-shadow-2xl justify-center items-center mt-5 p-5'>
             <div className='bg-white w-1/3 rounded-l-lg border-black border-2'>
               <div className='flex'>
-                <img className='w-9 h-9 m-7' src="/src/assets/logo.png" alt="img" />
+                <img className='w-9 h-9 m-7' src="/logo.png" alt="img" />
                 <p className='my-8 font-bold text-2xl'>TravelleRizz</p>
               </div>
 
